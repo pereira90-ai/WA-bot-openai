@@ -1,7 +1,7 @@
 WhatApp OpenAI-API Chatbot
 ==============================
 
-[![Build and deploy Python app to Azure Web App - openai-chatbot](https://github.com/simonsanvil/openai-whatsapp-chatbot/actions/workflows/master_openai-chatbot.yml/badge.svg)](https://github.com/simonsanvil/openai-whatsapp-chatbot/actions/workflows/master_openai-chatbot.yml)
+[![Build and deploy Python app to Azure Web App - openai-chatbot](https://github.com/pereira90-ai/WA-bot-openai/actions/workflows/master_openai-chatbot.yml/badge.svg)](https://github.com/pereira90-ai/WA-bot-openai/actions/workflows/master_openai-chatbot.yml)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/simonsanvil/openai-whatsapp-chatbot/blob/master/notebooks/chatbot_demo-colab.ipynb)
 
